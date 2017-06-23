@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.ilsc.ilscmobile"
         versionCode = "20180"
         version   = "3.3.0">
     <name>ILSC Mobile</name>
@@ -11,8 +11,8 @@
         ILSC Education Group LMS Mobile app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://ilsc.com" email="info@ilsc.com">
+        ILSC Education Group
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
